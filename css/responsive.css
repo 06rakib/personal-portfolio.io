@@ -1,0 +1,579 @@
+/*// Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) { }
+
+
+
+/*// Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) {
+ 
+    .social-icon {
+	margin-left: 0;
+}
+    .edu-2::after {
+	left: 101.5%;
+	top: 65%;
+}
+    .ins-prb::after {
+	left: 101.5%;
+}
+    .ins-prb3::after {
+	top: 82% !important;
+}
+    .service-1 {
+	margin: 0 30px;
+	margin-bottom: 30px;
+        padding: 10px 20px;
+}
+  
+    
+}
+
+/*// Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) { 
+   .social-icon {
+	margin-left: 35px;
+}
+    .edu-2::after {
+	left: 101.5%;
+	top: 65%;
+}
+    .ins-prb::after {
+	left: 101.5%;
+}
+    .ins-prb3::after {
+	top: 82% !important;
+}
+    .service-1 {
+	margin: 0 30px;
+	margin-bottom: 30px;
+        padding: 10px 20px;
+}
+  .pr-img {
+	margin: 0 auto;
+}
+    .inst h4 {
+	font-size: 18px;
+
+}
+    .mun p {
+	font-size: 15px;
+}
+   .ed1-prb::after {
+	left: 86.5%;
+	top: 39%;
+}
+    .edu-1::after {
+	width: 8px;
+	height: 8px;
+	line-height: 8px;
+}
+     .edu-2::after {
+	width: 8px;
+	height: 8px;
+	line-height: 8px;
+}
+    .edu-2::after {
+	left: 104%;
+	top: 74%;
+}
+    .ins-prb::after {
+	left: 104%;
+}
+    .ins-prb1::after {
+	top: 83% !important;
+
+    }
+    .ins-prb3::after {
+	top: 94% !important;
+}
+    .service-1 {
+	margin: 0 25px;
+	margin-bottom: 30px;
+	padding: 10px 20px;
+}
+    .gall-btn {
+	font-size: 15px;
+}
+    
+    .about-bottom {
+	margin-left: 200px;
+}
+    .phone {
+	margin-bottom: -20px;
+}
+      .main-menu {
+	text-align: left;
+	background: #718791;
+}
+    .main-menu .nav-item {
+	padding: 0px 0;
+	padding-left: 20px;
+}
+  
+    .btn.profile-btn {
+	margin-left: 150px;
+}
+    .profile-text {
+	text-align: center;
+}
+  .port {
+	top: 94.8%;
+}
+    
+}
+
+/*// Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) { 
+  
+    .profile-text {
+	text-align: center;
+}
+  .btn.profile-btn {
+	 margin-left: 0; 
+}
+    .profile-text h1 {
+	padding-top: 10px;
+	font-size: 32px;
+}
+ .profile-text p {
+	padding: 0px 30px;
+}
+    .social-icon {
+	margin-left: 15px;
+}
+    .resume-area h2 {
+	font-size: 27px;
+}
+    .edu-1 span, .edu-2 span {
+	font-size: 22px;
+}
+    .edu h3 {
+	font-size: 22px;
+}
+    .edu-2::after {
+	left: 101.5%;
+	top: 65%;
+}
+    .ins-prb::after {
+	left: 101.5%;
+}
+    .ins-prb3::after {
+	top: 82% !important;
+}
+    .service-1 {
+	margin: 0 30px;
+	margin-bottom: 30px;
+        padding: 10px 20px;
+}
+    .pr-img {
+	margin-left: 130px;
+}
+    .inst h4 {
+	 font-size: 18px;
+}
+    
+    .mun p {
+	 font-size: 14px;
+}
+    .resume-text {
+	  margin-top: -8px;
+}
+    .inst h5 {
+	font-size: 18px;
+}
+    .cit p {
+	font-size: 14px;
+}
+  .ed1-prb::after {
+	left: 106%;
+	top: 81%;
+}
+    .edu-1::after {
+	width: 8px;
+	height: 8px;
+	line-height: 8px;
+}
+    .inst h4::before {
+	right: 105%;
+	top: 94%;
+	height: 90px;
+}
+
+    .inst h4::after {
+	top: 16%;
+}
+    .edu-2 {
+	padding-top: 170px;
+}
+     .edu-2::after {
+	width: 8px;
+	height: 8px;
+	line-height: 8px;
+}
+ .edu-2::after {
+	left: 107%;
+	top: 95%;
+}
+
+  .mun h5::after {
+	bottom: 70%;
+}
+    .ins-prb1 {
+	padding-top: 80px;
+}
+  .ins-prb1::after {
+	top: 95% !important;
+	left: 107%;
+}
+ .ins-prb::after {
+	left: 107% ;
+	top: 43% !important;
+}
+ .cit h5::after {
+	bottom: 70% !important;
+}
+    .cit-prb h5::after {
+	bottom: 32% !important;
+    
+}
+    .ins-prb3 {
+	padding-top: 120px;
+}
+ .ins-prb3::after {
+	top: 89% !important;
+}
+    .edu {
+	 padding-top: 0; 
+}
+   .skill-space {
+	padding-top: 0;
+	margin-top: -25px;
+}
+    .inst h5 {
+	padding-top: 0;
+}
+.service-1 {
+	margin: 0 20px;
+	margin-bottom: 30px;
+	padding: 10px 0px;
+}
+    .gall-btn {
+	font-size: 15px;
+}
+ .portfolio-btns .gall-btn {
+	width: 100%;
+     margin: 3px 5px;
+} 
+    .port {
+	top: 96.5%;
+}
+    .about-bottom {
+	margin-left: 120px;
+}
+    .slider-bottom-text h2 {
+	font-size: 25px;
+}
+    .about-top-text h3::after {
+	left: 43%;
+	top: 350%;
+}
+    .about-top-text p {
+	font-size: 16px;
+	padding: 0 30px;
+}
+    .phone {
+	margin-bottom: -20px;
+}
+    .contact-middle{
+        text-align: center;
+    }
+  .main-menu {
+	text-align: left;
+	background: #718791;
+}
+    .main-menu .nav-item {
+	padding: 0px 0;
+	padding-left: 20px;
+}
+}
+
+
+
+/*// Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) {
+     .profile-text {
+	text-align: center;
+}
+     .pr-img {
+	margin: 0 auto;
+}
+    .profile-img img {
+	padding-bottom: 18px;
+	margin: -10px;
+}
+    .btn.profile-btn {
+	margin-left: 0;
+}
+    .profile-text h1 {
+	padding-top: 10px;
+	font-size: 24px;
+}
+    .shape1 {
+	display: none;
+}
+      .shape {
+	display: none;
+}
+    .profile-text h5 {
+	font-size: 18px;
+}
+    .profile-text h4 {
+	font-size: 16px;
+}
+.profile-text p {
+	padding: 0px 30px;
+	font-size: 14px;
+}
+    .social-icon {
+	margin-left: 15px;
+}
+      .resume-area h2 {
+	font-size: 22px;
+}
+    .resume-area h2::after {
+	width: 65%;
+    top: 87%
+}
+      .resume-area h2::before {
+	width: 65%;
+    top: 87%;
+}
+    .edu {
+	padding-left: 10px;
+	margin-right: -30px;
+}
+  .edu-1 span, .edu-2 span {
+	font-size: 18px;
+	padding-right: 14px;
+}
+  .edu h3 {
+	font-size: 18px;
+	margin-right: -30px;
+	padding-top: 30px;
+}
+    .edu h3::after {
+	top: 94%;
+	width: 8px;
+	height: 8px;
+	line-height: 8px;
+}
+    .edu-2::after {
+	left: 101.5%;
+	top: 65%;
+}
+    .ins-prb::after {
+	left: 101.5%;
+}
+    .ins-prb3::after {
+	top: 82% !important;
+}
+    .service-1 {
+	margin: 0 30px;
+	margin-bottom: 30px;
+        padding: 10px 20px;
+}
+    .service-text h1::before {
+	left: 43%;
+}
+    .inst2 {
+	padding-top: 100px;
+}
+  .inst h4 {
+	font-size: 15px;
+}
+    .inst1{
+        padding-bottom: 20px;
+    }
+    
+  .mun p {
+	font-size: 12px;
+}
+    .resume-text {
+	  margin-top: -8px;
+}
+    .inst h5 {
+	font-size: 15px;
+}
+    .cit p {
+	font-size: 14px;
+}
+ .ed1-prb::after {
+	left: 86.5%;
+	top: 41%;
+}
+   .edu-1::after {
+	width: 7px;
+	height: 7px;
+	line-height: 7px;
+}
+    .inst h4::before {
+	right: 105%;
+	top: 94%;
+	height: 90px;
+    display: none;
+}
+
+    .inst h4::after {
+	top: 16%;
+    display: none;
+}
+  .edu-2 {
+	padding-top: 75px;
+}
+  .edu-2::after {
+	width: 7px;
+	height: 7px;
+	line-height: 7px;
+}
+.edu-2::after {
+	left: 87%;
+	top: 93%;
+	display: none;
+}
+
+ .mun h5::after {
+	bottom: 70%;
+	display: none;
+}
+    .ins-prb1 {
+	padding-top: 80px;
+}
+ .ins-prb1::after {
+	top: 79% !important;
+	left: 88%;
+}
+ .ins-prb::after {
+	left: 88%;
+	top: 35% !important;
+}
+ .cit h5::after {
+	bottom: 70% !important;
+	display: none;
+}
+    .cit-prb h5::after {
+	bottom: 32% !important;
+    display: none;
+}
+    .edu-1::after {
+	display: none;
+}
+    .inst h5::before {
+	display: none;
+}
+    .ins-prb3 {
+	padding-top: 120px;
+}
+.ins-prb3::after {
+	top: 99% !important;
+}
+    .edu {
+	 padding-top: 0; 
+}
+   .skill-space {
+	padding-top: 0;
+	margin-top: -25px;
+}
+    .inst h5 {
+	padding-top: 0;
+}
+.service-1 {
+	margin: 0 20px;
+	margin-bottom: 30px;
+	padding: 30px 20px;
+}
+   .gall-btn {
+	font-size: 13px;
+}
+    .gall-text h3::after {
+	width: 60px;
+}
+     .gall-text h3::before {
+	width: 60px;
+}
+ .portfolio-btns .gall-btn {
+	width: 100%;
+     margin: 3px 5px;
+} 
+    .port {
+	top: 96.5%;
+}
+  .about-bottom {
+	margin: 0;
+	margin-left: 50px;
+	margin-top: 30px;
+}
+    .slider-bottom-text h2 {
+	font-size: 25px;
+}
+   .about-top-text h3::after {
+	left: 43%;
+	top: 350%;
+	display: none;
+}
+  .about-top-text p {
+	font-size: 14px;
+	padding: 0 30px;
+}
+    .phone {
+	margin-bottom: -20px;
+}
+    .contact-middle{
+        text-align: center;
+    }
+  .main-menu {
+	text-align: left;
+	background: #718791;
+}
+    .main-menu .nav-item {
+	padding: 0px 0;
+	padding-left: 20px;
+}
+    .about-top-text .about-text {
+	font-size: 14px;
+}
+   .btn.gall-btn.about-btn {
+	margin: 0;
+}
+    .about-contact h3::after {
+	top: 87%;
+}
+    .single-slider p {
+	font-size: 14px;
+	padding: 0 20px;
+}
+    .phone {
+	margin-bottom: -35px;
+	text-align: ;
+}
+    form {
+	padding-top: 30px;
+}
+   .copyright p {
+	font-size: 14px;
+	text-align: left;
+}
+
+    
+    
+    
+}
+
+
+
+
+
+
+
+
+
+
