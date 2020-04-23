@@ -89,8 +89,9 @@ $(window).on('scroll', function(event) {
 //    Type  js
  var typed6 = new Typed('.type', {
     strings: [' Web Designer',
-             'Web Devoloper',
-             'Wordpress expert'],
+              'Wordpress expert',
+             'Web Devoloper'
+             ],
     typeSpeed: 80,
     backSpeed: 60,
     loop: true
