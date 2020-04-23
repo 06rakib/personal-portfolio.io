@@ -119,6 +119,10 @@
   .port {
 	top: 94.8%;
 }
+    .rain {
+	left: 48%;
+	top: 58%;
+}
     
 }
 
@@ -295,6 +299,11 @@
 	padding: 0px 0;
 	padding-left: 20px;
 }
+      .rain {
+	left: 47%;
+	top: 58%;
+}
+    
 }
 
 
@@ -562,8 +571,14 @@
 	font-size: 14px;
 	text-align: left;
 }
+      .rain {
+	left: 45%;
+	top: 58%;
+}
 
-    
+    .text {
+	margin: 0px -20px;
+}
     
     
 }

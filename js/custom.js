@@ -83,8 +83,18 @@ $(window).on('scroll', function(event) {
  });
     //    Animation on Scroll js
     AOS.init();
-
-
+    
+    
+    
+//    Type  js
+ var typed6 = new Typed('.type', {
+    strings: [' Web Designer',
+             'Web Devoloper',
+             'Wordpress expert'],
+    typeSpeed: 80,
+    backSpeed: 60,
+    loop: true
+  });
     
 });
 

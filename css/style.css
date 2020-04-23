@@ -210,12 +210,10 @@ button::focus {
 /*====== profile Css ======*/
 #profile {
     padding: 70px 0;
-    /*	background: linear-gradient(to right, rgba(34, 34, 34, 0.75),rgba(49, 29, 94, 0.75));*/
-    /*    background: #222;*/
 }
 
 .profile-img {
-	border: 4px solid #a9c0bb;
+	border: 4px solid #D0BB79;
 }
 .profile-img img {
     padding-bottom: 34px;
@@ -239,7 +237,7 @@ button::focus {
     position: absolute;
     left: 0;
     bottom: -2px;
-    background: #a9c0bb;
+    background: #D0BB79;
     opacity: .4;
     z-index: -1;
 }
@@ -247,11 +245,13 @@ button::focus {
 .profile-text h1 {
     padding-top: 10px;
 }
-
 .profile-text h4 {
-    font-weight: 600;
-    font-size: 18px;
-    padding-bottom: 10px;
+	font-weight: 600;
+	font-size: 22px;
+	padding-bottom: 10px;
+}
+.profile-text h4 span{
+   color: #D0BB79; 
 }
 
 .profile-text p {
@@ -303,19 +303,17 @@ button::focus {
 .shape-parent {
     position: relative;
 }
-
 .shape {
-    width: 0;
-    height: 0;
-    border-left: 40px solid transparent;
-    border-right: 40px solid transparent;
-    border-bottom: 50px solid #FFF;
-    position: absolute;
-    top: 102%;
-    left: 0;
-    z-index: 10;
+	width: 0;
+	height: 0;
+	border-left: 40px solid transparent;
+	border-right: 40px solid transparent;
+	border-bottom: 50px solid #FFF;
+	position: absolute;
+	top: 101.5%;
+	left: 0;
+	z-index: 10;
 }
-
 .shape1 {
     width: 0;
     height: 0;
@@ -327,7 +325,6 @@ button::focus {
     right: 0;
     z-index: 10;
 }
-
 /*==== shape Css ====*/
 .resume-area h2 {
     position: relative;
@@ -1274,10 +1271,10 @@ path {
 	height: 70px;
 	margin-top: -32px;
 	margin-left: 19px;
-	left: 46%;
-	top: 58%;
+	left: 49%;
+	top: 59%;
+	transform: translateX(-50%);
 }
-
 .drop {
   opacity: 1;
   background: #9ea1a4;
@@ -1360,7 +1357,8 @@ path {
 	font-size: 11px;
 	color: #a0a0a0;
 	position: absolute;
-	left: 45%;
+	left: 54%;
 	top: 63%;
+	transform: translateX(-50%);
 }
 /*====== PREALODER ======*/
