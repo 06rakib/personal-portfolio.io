@@ -58,9 +58,9 @@
     .mun p {
 	font-size: 15px;
 }
-   .ed1-prb::after {
-	left: 86.5%;
-	top: 39%;
+  .ed1-prb::after {
+	left: 103%;
+	top: 34%;
 }
     .edu-1::after {
 	width: 8px;
@@ -70,7 +70,7 @@
      .edu-2::after {
 	width: 8px;
 	height: 8px;
-	line-height: 8px;
+	line-height: 8px
 }
     .edu-2::after {
 	left: 104%;
