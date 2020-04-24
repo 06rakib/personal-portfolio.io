@@ -1064,14 +1064,39 @@ button::focus {
 .slide-area .slick-dots li.slick-active button {
     background: #222;
 }
-
 /*===== slider ======*/
-/*===== Contact ======*/
-#contact{
+/*===== achievement ======*/
+#achievement{
     padding: 70px 0;
+    text-align: center;
+}
+.clinet{
+    text-transform: capitalize;
+}
+.clinet i {
+	font-size: 35px;
+	color: #D0BB79;
+	border: 1px solid #D0BB79;
+	border-radius: 50%;
+	padding: 20px;
+}
+.clinet h2 {
+	font-size: 44px;
+	/* font-weight: 700; */
+}
+.clinet p {
+	color: #ad9d9d;
+}
+/*===== achievement ======*/
+/*===== Contact ======*/
+#contact {
+	padding: 70px 0;
+	background: #0b0c1d;
+    color: #ad9d9d;
 }
 #contact h2{
     font-size: 22px;
+    color: #fff;;
 }
 #contact P{
     padding-bottom: 40px;
@@ -1081,25 +1106,29 @@ button::focus {
 .phone{
     
 }
-.phone a{
-    text-align: center;
-}
 .phone i {
 	font-size: 25px;
 	color: #D0BB79;
 	margin-bottom: 7px;
 }
+.phone a{
+    text-align: center;
+}
 .phone h5{
     font-size: 16px;
     font-weight: 700;
     font-size: 16px;
+    color: #fff;
 }
 .phone a{
     text-decoration: none;
-    color: #212529;
+    color: #ad9d9d;
 }
 .form-control {
 	line-height: 2!important;
+}
+.form-control {
+    border: 0;
 }
 .con-btn{
   display: inline-block;
@@ -1125,6 +1154,7 @@ button{
 .form-control::placeholder {
 	color: #D0BB79;
 	opacity: 1;
+	background: black;
 }
 
 
@@ -1135,6 +1165,7 @@ button{
 	padding: 25px 0;
 	color: #fff;
 	padding-top: 40px;
+    border-top: 1px solid;
 }
 .copyright span{
     font-weight: 700;
