@@ -1125,10 +1125,13 @@ button::focus {
     color: #ad9d9d;
 }
 .form-control {
-	line-height: 2!important;
+	border: 0;
+	background: black;
+    line-height: 2!important;
 }
-.form-control {
-    border: 0;
+.form-control::placeholder {
+	color: #D0BB79;
+	opacity: 1;
 }
 .con-btn{
   display: inline-block;
@@ -1151,11 +1154,7 @@ button::focus {
 button{
     border: 0;
 }
-.form-control::placeholder {
-	color: #D0BB79;
-	opacity: 1;
-	background: black;
-}
+
 
 
 /*===== Contact ======*/
