@@ -571,13 +571,23 @@
 	font-size: 14px;
 	text-align: left;
 }
-      .rain {
-	left: 45%;
-	top: 58%;
+    #sun {
+	left: 40%;
+	top: 30%;
+}
+  .rain {
+	left: 38%;
+	top: 42%;
+}
+    svg {
+	left: 43%;
+	top: 35%;
 }
 
     .text {
 	margin: 0px -20px;
+     left: 54%;
+	top: 43%;
 }
     
     
