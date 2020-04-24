@@ -58,7 +58,7 @@ $('.back-to-top').on('click', function(event) {
     //==== Preloader
     
     $(window).on('load', function(event) {
-    $('.preloader').delay(500).fadeOut(500;
+    $('.preloader').delay(500).fadeOut(500);
 });
     
 //    Sticky Menubar
