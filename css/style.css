@@ -1270,7 +1270,7 @@ path {
 	height: 60px;
 	position: absolute;
 	left: 49%;
-	top: 45%;
+	top: 44%;
 	z-index: 1;
 	animation-name: rotate;
 	animation-duration: 16000ms;
@@ -1303,7 +1303,7 @@ path {
 	margin-top: -32px;
 	margin-left: 19px;
 	left: 49%;
-	top: 59%;
+	top: 58%;
 	transform: translateX(-50%);
 }
 .drop {
